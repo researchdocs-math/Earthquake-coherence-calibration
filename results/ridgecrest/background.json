@@ -1,0 +1,1930 @@
+[
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Gaussian",
+    "pair": "20181130_20181212",
+    "area": 0.28716318836323945,
+    "max_region_area": 0.6519488840842483,
+    "any_exceed": 1,
+    "regions": [
+      0.36602572032317554,
+      0.08930635877395494,
+      0.6519488840842483,
+      0.4054841438461653
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Gaussian",
+    "pair": "20181212_20181224",
+    "area": 0.27034038321891307,
+    "max_region_area": 0.5064856276385398,
+    "any_exceed": 1,
+    "regions": [
+      0.3323466049502325,
+      0.13018548894734955,
+      0.5064856276385398,
+      0.3517195563095648
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Gaussian",
+    "pair": "20181224_20190105",
+    "area": 0.00760638989153525,
+    "max_region_area": 0.013327869797356852,
+    "any_exceed": 0,
+    "regions": [
+      0.013327869797356852,
+      0.0010409742325760425,
+      0.00934222602037467,
+      0.009443431169499432
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Gaussian",
+    "pair": "20190105_20190117",
+    "area": 0.8201576016896408,
+    "max_region_area": 0.9751373733708749,
+    "any_exceed": 1,
+    "regions": [
+      0.8602664533921935,
+      0.705608669615053,
+      0.9640539513561645,
+      0.9751373733708749
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Gaussian",
+    "pair": "20190117_20190129",
+    "area": 0.8016192818373121,
+    "max_region_area": 0.9653804445443751,
+    "any_exceed": 1,
+    "regions": [
+      0.8125240227554963,
+      0.7102156974246812,
+      0.9600121242780679,
+      0.9653804445443751
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Gaussian",
+    "pair": "20190129_20190210",
+    "area": 0.1563439566117759,
+    "max_region_area": 0.4160360349597966,
+    "any_exceed": 1,
+    "regions": [
+      0.2009275364934774,
+      0.08251285422309274,
+      0.4160360349597966,
+      0.022468532044372908
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Gaussian",
+    "pair": "20190210_20190222",
+    "area": 0.13190741727438451,
+    "max_region_area": 0.3897749309812846,
+    "any_exceed": 1,
+    "regions": [
+      0.20844671681789662,
+      0.021592705975295643,
+      0.3897749309812846,
+      0.018632335015703137
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Gaussian",
+    "pair": "20190222_20190306",
+    "area": 0.9247553522892337,
+    "max_region_area": 0.990243373255171,
+    "any_exceed": 1,
+    "regions": [
+      0.9384085782990903,
+      0.8788155228436865,
+      0.9888253762773616,
+      0.990243373255171
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Gaussian",
+    "pair": "20190306_20190318",
+    "area": 0.8386760877880882,
+    "max_region_area": 0.98817303867392,
+    "any_exceed": 1,
+    "regions": [
+      0.8334609589444348,
+      0.7699868189882111,
+      0.98817303867392,
+      0.9845774974534541
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Gaussian",
+    "pair": "20190318_20190330",
+    "area": 0.08526634548274467,
+    "max_region_area": 0.21447210341045478,
+    "any_exceed": 1,
+    "regions": [
+      0.060967104680004165,
+      0.06136736775478653,
+      0.14665320776905347,
+      0.21447210341045478
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Gaussian",
+    "pair": "20190330_20190411",
+    "area": 0.1615795470356539,
+    "max_region_area": 0.43964194060727835,
+    "any_exceed": 1,
+    "regions": [
+      0.09661583804891027,
+      0.1198806791842491,
+      0.3051960928925235,
+      0.43964194060727835
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Gaussian",
+    "pair": "20190411_20190423",
+    "area": 0.2799271058129747,
+    "max_region_area": 0.6645050427818733,
+    "any_exceed": 1,
+    "regions": [
+      0.22485967135515764,
+      0.1818846380043127,
+      0.5025638254666449,
+      0.6645050427818733
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Gaussian",
+    "pair": "20190423_20190505",
+    "area": 0.1352558766322961,
+    "max_region_area": 0.3433403890994679,
+    "any_exceed": 1,
+    "regions": [
+      0.11231018838103261,
+      0.091285081688386,
+      0.19108303223171286,
+      0.3433403890994679
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Gaussian",
+    "pair": "20190505_20190517",
+    "area": 0.26268543653999954,
+    "max_region_area": 0.6522284099382303,
+    "any_exceed": 1,
+    "regions": [
+      0.21831176554751416,
+      0.16630748651202396,
+      0.43021109491968385,
+      0.6522284099382303
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Gaussian",
+    "pair": "20190517_20190529",
+    "area": 0.09462818823437243,
+    "max_region_area": 0.2337598055995102,
+    "any_exceed": 1,
+    "regions": [
+      0.09611453226056806,
+      0.03767017680338687,
+      0.2337598055995102,
+      0.1783592558112175
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Gaussian",
+    "pair": "20190704_20190716",
+    "is_event": true,
+    "area": 0.12651325538465466,
+    "max_region_area": 0.763085367624315,
+    "any_exceed": 1,
+    "regions": [
+      0.012755950051938839,
+      0.0807640396646989,
+      0.11176088881303639,
+      0.763085367624315
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Pooled",
+    "pair": "20181130_20181212",
+    "area": 0.19664216278884203,
+    "max_region_area": 0.5189928198848125,
+    "any_exceed": 1,
+    "regions": [
+      0.2678685871873432,
+      0.03413909805240172,
+      0.5189928198848125,
+      0.2467877407961045
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Pooled",
+    "pair": "20181212_20181224",
+    "area": 0.15833249076323655,
+    "max_region_area": 0.3383754432760419,
+    "any_exceed": 1,
+    "regions": [
+      0.22381006218159394,
+      0.04755604521519338,
+      0.3383754432760419,
+      0.16494155564110538
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Pooled",
+    "pair": "20181224_20190105",
+    "area": 0.002604492249608181,
+    "max_region_area": 0.006610371667865843,
+    "any_exceed": 0,
+    "regions": [
+      0.0040877315963458016,
+      0.0004965311837988903,
+      0.0010450896183724335,
+      0.006610371667865843
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Pooled",
+    "pair": "20190105_20190117",
+    "area": 0.6567474023361614,
+    "max_region_area": 0.9198068808680577,
+    "any_exceed": 1,
+    "regions": [
+      0.6572195770868209,
+      0.5289849117142361,
+      0.9023665724311658,
+      0.9198068808680577
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Pooled",
+    "pair": "20190117_20190129",
+    "area": 0.623174097127566,
+    "max_region_area": 0.8968336055716648,
+    "any_exceed": 1,
+    "regions": [
+      0.5954705362700679,
+      0.5168573079183981,
+      0.8968336055716648,
+      0.8846195566385978
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Pooled",
+    "pair": "20190129_20190210",
+    "area": 0.10774772641204988,
+    "max_region_area": 0.3340378245068054,
+    "any_exceed": 1,
+    "regions": [
+      0.16303621971423085,
+      0.022236547271001734,
+      0.3340378245068054,
+      0.01025789282167438
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Pooled",
+    "pair": "20190210_20190222",
+    "area": 0.10005192092862915,
+    "max_region_area": 0.2950291608570428,
+    "any_exceed": 1,
+    "regions": [
+      0.16448688385382818,
+      0.010550456569968503,
+      0.2950291608570428,
+      0.012777706183080184
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Pooled",
+    "pair": "20190222_20190306",
+    "area": 0.7918447446320809,
+    "max_region_area": 0.9554995065254888,
+    "any_exceed": 1,
+    "regions": [
+      0.7956841321512421,
+      0.7068255492866372,
+      0.9554995065254888,
+      0.9529767494689285
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Pooled",
+    "pair": "20190306_20190318",
+    "area": 0.6963178540031957,
+    "max_region_area": 0.9516444168135605,
+    "any_exceed": 1,
+    "regions": [
+      0.6637083509106259,
+      0.6050325598845803,
+      0.9516444168135605,
+      0.9355402379917819
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Pooled",
+    "pair": "20190318_20190330",
+    "area": 0.039247832593540144,
+    "max_region_area": 0.0898286042541195,
+    "any_exceed": 1,
+    "regions": [
+      0.029984566617736026,
+      0.0247336563623767,
+      0.08328618753714635,
+      0.0898286042541195
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Pooled",
+    "pair": "20190330_20190411",
+    "area": 0.07641790882129883,
+    "max_region_area": 0.22781460407518456,
+    "any_exceed": 1,
+    "regions": [
+      0.037257409804180706,
+      0.049786917027330346,
+      0.1859137724386772,
+      0.22781460407518456
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Pooled",
+    "pair": "20190411_20190423",
+    "area": 0.1206870435873553,
+    "max_region_area": 0.3486901822827978,
+    "any_exceed": 1,
+    "regions": [
+      0.0776525250295032,
+      0.05773372412129749,
+      0.31428712361410105,
+      0.3486901822827978
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Pooled",
+    "pair": "20190423_20190505",
+    "area": 0.05198006650250529,
+    "max_region_area": 0.16499945895862334,
+    "any_exceed": 1,
+    "regions": [
+      0.03990345220329473,
+      0.027455386988350497,
+      0.08335942391599231,
+      0.16499945895862334
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Pooled",
+    "pair": "20190505_20190517",
+    "area": 0.13230165113721998,
+    "max_region_area": 0.47201497926171,
+    "any_exceed": 1,
+    "regions": [
+      0.08261944882166093,
+      0.07553442506981636,
+      0.21161422477769679,
+      0.47201497926171
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Pooled",
+    "pair": "20190517_20190529",
+    "area": 0.03321524100517188,
+    "max_region_area": 0.07879125817253606,
+    "any_exceed": 1,
+    "regions": [
+      0.03177444959562812,
+      0.014081122008661262,
+      0.07879125817253606,
+      0.07001269047233351
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Pooled",
+    "pair": "20190704_20190716",
+    "is_event": true,
+    "area": 0.10158120796015527,
+    "max_region_area": 0.6782689711339945,
+    "any_exceed": 1,
+    "regions": [
+      0.005691267959533968,
+      0.05802808799342432,
+      0.06786712025870895,
+      0.6782689711339945
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-pool",
+    "pair": "20181130_20181212",
+    "area": 0.18014793658928965,
+    "max_region_area": 0.4022390796518602,
+    "any_exceed": 1,
+    "regions": [
+      0.27841067193974045,
+      0.05597082271881677,
+      0.4022390796518602,
+      0.07126954415538107
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-pool",
+    "pair": "20181212_20181224",
+    "area": 0.15161991925353102,
+    "max_region_area": 0.23881272222869793,
+    "any_exceed": 1,
+    "regions": [
+      0.23881272222869793,
+      0.08269503132297652,
+      0.2062672234286953,
+      0.03028262519201362
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-pool",
+    "pair": "20181224_20190105",
+    "area": 0.0026039311270667155,
+    "max_region_area": 0.004814732950962667,
+    "any_exceed": 0,
+    "regions": [
+      0.004814732950962667,
+      0.0006726538852627107,
+      0.0005224557529246355,
+      0.0035884629480764005
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-pool",
+    "pair": "20190105_20190117",
+    "area": 0.6750139059245773,
+    "max_region_area": 0.8167574794212298,
+    "any_exceed": 1,
+    "regions": [
+      0.6857302598214908,
+      0.6233239460054352,
+      0.8167574794212298,
+      0.6996806638030397
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-pool",
+    "pair": "20190117_20190129",
+    "area": 0.6395016708016096,
+    "max_region_area": 0.8027465597237603,
+    "any_exceed": 1,
+    "regions": [
+      0.6238679662780978,
+      0.6196908442281481,
+      0.8027465597237603,
+      0.6208075426686568
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-pool",
+    "pair": "20190129_20190210",
+    "area": 0.11089465961303041,
+    "max_region_area": 0.2730109794623831,
+    "any_exceed": 1,
+    "regions": [
+      0.16749263795773983,
+      0.04195516592485106,
+      0.2730109794623831,
+      0.005097423318354573
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-pool",
+    "pair": "20190210_20190222",
+    "area": 0.09550591274934904,
+    "max_region_area": 0.2179331625205562,
+    "any_exceed": 1,
+    "regions": [
+      0.16934643703859822,
+      0.014599512155172108,
+      0.2179331625205562,
+      0.007804621274673047
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-pool",
+    "pair": "20190222_20190306",
+    "area": 0.8105850099217496,
+    "max_region_area": 0.8912646087495836,
+    "any_exceed": 1,
+    "regions": [
+      0.8197050043520249,
+      0.7973010822267603,
+      0.8912646087495836,
+      0.7495175022354846
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-pool",
+    "pair": "20190306_20190318",
+    "area": 0.7082617895141522,
+    "max_region_area": 0.8688448101045552,
+    "any_exceed": 1,
+    "regions": [
+      0.6873399801762266,
+      0.6983683558759685,
+      0.8688448101045552,
+      0.6737900064178935
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-pool",
+    "pair": "20190318_20190330",
+    "area": 0.03589122821376876,
+    "max_region_area": 0.04663839948376017,
+    "any_exceed": 0,
+    "regions": [
+      0.03282754002082174,
+      0.04123237922586597,
+      0.04663839948376017,
+      0.016490337742809925
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-pool",
+    "pair": "20190330_20190411",
+    "area": 0.06490522544700156,
+    "max_region_area": 0.10223177057750325,
+    "any_exceed": 1,
+    "regions": [
+      0.04229733954903974,
+      0.07927630997566837,
+      0.10223177057750325,
+      0.060492164654588905
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-pool",
+    "pair": "20190411_20190423",
+    "area": 0.10346229472801599,
+    "max_region_area": 0.17076203223696915,
+    "any_exceed": 1,
+    "regions": [
+      0.08938125856709671,
+      0.10735394725823989,
+      0.17076203223696915,
+      0.07812496394813519
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-pool",
+    "pair": "20190423_20190505",
+    "area": 0.04542673637742245,
+    "max_region_area": 0.051230348658019245,
+    "any_exceed": 1,
+    "regions": [
+      0.04550848229643454,
+      0.051230348658019245,
+      0.034755144923857804,
+      0.032610562102419055
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-pool",
+    "pair": "20190505_20190517",
+    "area": 0.11496402555872545,
+    "max_region_area": 0.2223604867114248,
+    "any_exceed": 1,
+    "regions": [
+      0.09426328950448852,
+      0.11263998224567724,
+      0.09656416563294777,
+      0.2223604867114248
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-pool",
+    "pair": "20190517_20190529",
+    "area": 0.027323467958156523,
+    "max_region_area": 0.03634604761259559,
+    "any_exceed": 0,
+    "regions": [
+      0.03634604761259559,
+      0.02298632397993259,
+      0.024630456791673385,
+      0.0118371629731488
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-pool",
+    "pair": "20190704_20190716",
+    "is_event": true,
+    "area": 0.08955350463452026,
+    "max_region_area": 0.5464175353794951,
+    "any_exceed": 1,
+    "regions": [
+      0.006499566907726576,
+      0.06850705812759654,
+      0.03664466850222701,
+      0.5464175353794951
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Global-map",
+    "pair": "20181130_20181212",
+    "area": 0.09114210726182326,
+    "max_region_area": 0.26928209624579247,
+    "any_exceed": 1,
+    "regions": [
+      0.14641118947898774,
+      0.005456602246335778,
+      0.26928209624579247,
+      0.04079781948564423
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Global-map",
+    "pair": "20181212_20181224",
+    "area": 0.03886187203991353,
+    "max_region_area": 0.08696337435786994,
+    "any_exceed": 1,
+    "regions": [
+      0.06798644935739005,
+      0.004559216253230144,
+      0.08696337435786994,
+      0.013850942914469332
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Global-map",
+    "pair": "20181224_20190105",
+    "area": 0.00041184052663210155,
+    "max_region_area": 0.0028958865112627893,
+    "any_exceed": 0,
+    "regions": [
+      0.00022620467947343778,
+      3.2054882329246377e-05,
+      0.00013061496996977424,
+      0.0028958865112627893
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Global-map",
+    "pair": "20190105_20190117",
+    "area": 0.31427977087275066,
+    "max_region_area": 0.6433075204351921,
+    "any_exceed": 1,
+    "regions": [
+      0.29311221939020465,
+      0.18166536224949753,
+      0.6433075204351921,
+      0.6002253900347307
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Global-map",
+    "pair": "20190117_20190129",
+    "area": 0.2792085952705642,
+    "max_region_area": 0.6127363775748914,
+    "any_exceed": 1,
+    "regions": [
+      0.2602081170222818,
+      0.1571836836614675,
+      0.6127363775748914,
+      0.5107755447094248
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Global-map",
+    "pair": "20190129_20190210",
+    "area": 0.06019977651066616,
+    "max_region_area": 0.18311196489062184,
+    "any_exceed": 1,
+    "regions": [
+      0.09924732380639248,
+      0.00560444096599459,
+      0.18311196489062184,
+      0.004153497267071845
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Global-map",
+    "pair": "20190210_20190222",
+    "area": 0.05026574054026635,
+    "max_region_area": 0.12823712761115433,
+    "any_exceed": 1,
+    "regions": [
+      0.08831213860710875,
+      0.004501283761083641,
+      0.12823712761115433,
+      0.006734453971231154
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Global-map",
+    "pair": "20190222_20190306",
+    "area": 0.4068442455241479,
+    "max_region_area": 0.7394641632053446,
+    "any_exceed": 1,
+    "regions": [
+      0.3863227982930633,
+      0.28362353921107214,
+      0.7394641632053446,
+      0.6499278862642923
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Global-map",
+    "pair": "20190306_20190318",
+    "area": 0.3330724628598357,
+    "max_region_area": 0.6920074419491208,
+    "any_exceed": 1,
+    "regions": [
+      0.31418496482230013,
+      0.20801588787692432,
+      0.6920074419491208,
+      0.5516624899238284
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Global-map",
+    "pair": "20190318_20190330",
+    "area": 0.00587232381257757,
+    "max_region_area": 0.016852113340977314,
+    "any_exceed": 0,
+    "regions": [
+      0.004070539367702082,
+      0.004005961497733096,
+      0.016852113340977314,
+      0.009629080765497487
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Global-map",
+    "pair": "20190330_20190411",
+    "area": 0.010925469702910154,
+    "max_region_area": 0.04069652351865135,
+    "any_exceed": 0,
+    "regions": [
+      0.003829869669035394,
+      0.0046463879436275755,
+      0.04069652351865135,
+      0.034494396093016834
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Global-map",
+    "pair": "20190411_20190423",
+    "area": 0.013462017249867257,
+    "max_region_area": 0.06108002911616414,
+    "any_exceed": 1,
+    "regions": [
+      0.0063192887257056685,
+      0.0022267145685978093,
+      0.06108002911616414,
+      0.03947170954994459
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Global-map",
+    "pair": "20190423_20190505",
+    "area": 0.005080997372161682,
+    "max_region_area": 0.015738622153864328,
+    "any_exceed": 0,
+    "regions": [
+      0.005169876079187162,
+      0.0013440173215863835,
+      0.008884921421063294,
+      0.015738622153864328
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Global-map",
+    "pair": "20190505_20190517",
+    "area": 0.028256315634925012,
+    "max_region_area": 0.16022603106670869,
+    "any_exceed": 1,
+    "regions": [
+      0.010808309868590639,
+      0.011778395724323163,
+      0.028878437457114586,
+      0.16022603106670869
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Global-map",
+    "pair": "20190517_20190529",
+    "area": 0.0029458846037153505,
+    "max_region_area": 0.005666648813078803,
+    "any_exceed": 0,
+    "regions": [
+      0.002988987513241529,
+      0.001986981422752834,
+      0.003854501017492153,
+      0.005666648813078803
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Global-map",
+    "pair": "20190704_20190716",
+    "is_event": true,
+    "area": 0.0653263958841737,
+    "max_region_area": 0.5026556978551926,
+    "any_exceed": 1,
+    "regions": [
+      0.0005012296933104625,
+      0.03149262662088643,
+      0.011170005175905192,
+      0.5026556978551926
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Bonferroni",
+    "pair": "20181130_20181212",
+    "area": 0.0,
+    "max_region_area": 0.0,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Bonferroni",
+    "pair": "20181212_20181224",
+    "area": 0.0,
+    "max_region_area": 0.0,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Bonferroni",
+    "pair": "20181224_20190105",
+    "area": 0.0,
+    "max_region_area": 0.0,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Bonferroni",
+    "pair": "20190105_20190117",
+    "area": 0.0,
+    "max_region_area": 0.0,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Bonferroni",
+    "pair": "20190117_20190129",
+    "area": 0.0,
+    "max_region_area": 0.0,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Bonferroni",
+    "pair": "20190129_20190210",
+    "area": 0.0,
+    "max_region_area": 0.0,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Bonferroni",
+    "pair": "20190210_20190222",
+    "area": 0.0,
+    "max_region_area": 0.0,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Bonferroni",
+    "pair": "20190222_20190306",
+    "area": 0.0,
+    "max_region_area": 0.0,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Bonferroni",
+    "pair": "20190306_20190318",
+    "area": 0.0,
+    "max_region_area": 0.0,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Bonferroni",
+    "pair": "20190318_20190330",
+    "area": 0.0,
+    "max_region_area": 0.0,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Bonferroni",
+    "pair": "20190330_20190411",
+    "area": 0.0,
+    "max_region_area": 0.0,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Bonferroni",
+    "pair": "20190411_20190423",
+    "area": 0.0,
+    "max_region_area": 0.0,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Bonferroni",
+    "pair": "20190423_20190505",
+    "area": 0.0,
+    "max_region_area": 0.0,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Bonferroni",
+    "pair": "20190505_20190517",
+    "area": 0.0,
+    "max_region_area": 0.0,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Bonferroni",
+    "pair": "20190517_20190529",
+    "area": 0.0,
+    "max_region_area": 0.0,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Bonferroni",
+    "pair": "20190704_20190716",
+    "is_event": true,
+    "area": 0.0,
+    "max_region_area": 0.0,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-max",
+    "pair": "20181130_20181212",
+    "area": 0.05797473885010271,
+    "max_region_area": 0.18062701284493324,
+    "any_exceed": 1,
+    "regions": [
+      0.094238181167513,
+      0.0052485943542245695,
+      0.18062701284493324,
+      0.005666503775537306
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-max",
+    "pair": "20181212_20181224",
+    "area": 0.019406464121721236,
+    "max_region_area": 0.03737280977802327,
+    "any_exceed": 0,
+    "regions": [
+      0.03471400489030293,
+      0.004415173296408878,
+      0.03737280977802327,
+      0.0013850695455021632
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-max",
+    "pair": "20181224_20190105",
+    "area": 0.00023168333073136932,
+    "max_region_area": 0.0018885266556285356,
+    "any_exceed": 0,
+    "regions": [
+      6.462739698256549e-05,
+      3.2054882329246377e-05,
+      0.0,
+      0.0018885266556285356
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-max",
+    "pair": "20190105_20190117",
+    "area": 0.2249151342487063,
+    "max_region_area": 0.4570532426261152,
+    "any_exceed": 1,
+    "regions": [
+      0.1819544315634094,
+      0.17767931476954002,
+      0.4570532426261152,
+      0.35384631805410616
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-max",
+    "pair": "20190117_20190129",
+    "area": 0.19605540898113735,
+    "max_region_area": 0.4229893724773691,
+    "any_exceed": 1,
+    "regions": [
+      0.1648841499475126,
+      0.1530536153612462,
+      0.4229893724773691,
+      0.26747801108047187
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-max",
+    "pair": "20190129_20190210",
+    "area": 0.04052150258185705,
+    "max_region_area": 0.11406036758358397,
+    "any_exceed": 1,
+    "regions": [
+      0.06746738151005455,
+      0.005572478717825881,
+      0.11406036758358397,
+      0.002013879259257453
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-max",
+    "pair": "20190210_20190222",
+    "area": 0.030820242231560543,
+    "max_region_area": 0.0685288281521297,
+    "any_exceed": 1,
+    "regions": [
+      0.054934701869424354,
+      0.004469276016363766,
+      0.0685288281521297,
+      0.004090903167689608
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-max",
+    "pair": "20190222_20190306",
+    "area": 0.3009087168677995,
+    "max_region_area": 0.5735589634182711,
+    "any_exceed": 1,
+    "regions": [
+      0.23484939762059848,
+      0.27806923053043103,
+      0.5735589634182711,
+      0.3848979306120623
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-max",
+    "pair": "20190306_20190318",
+    "area": 0.23722605240566624,
+    "max_region_area": 0.5063569374026587,
+    "any_exceed": 1,
+    "regions": [
+      0.19289752887676498,
+      0.2031810807116264,
+      0.5063569374026587,
+      0.28404882496163625
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-max",
+    "pair": "20190318_20190330",
+    "area": 0.003177263887540934,
+    "max_region_area": 0.006009224537253409,
+    "any_exceed": 0,
+    "regions": [
+      0.0012435041476765707,
+      0.00394187058900323,
+      0.006009224537253409,
+      0.004971187171692985
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-max",
+    "pair": "20190330_20190411",
+    "area": 0.004490406629284991,
+    "max_region_area": 0.016134463060304673,
+    "any_exceed": 0,
+    "regions": [
+      0.0008886516510072177,
+      0.004518199833035695,
+      0.016134463060304673,
+      0.007175431867066742
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-max",
+    "pair": "20190411_20190423",
+    "area": 0.00381532923949904,
+    "max_region_area": 0.020186038206323042,
+    "any_exceed": 0,
+    "regions": [
+      0.001551481837901716,
+      0.002098536194438957,
+      0.020186038206323042,
+      0.0035881262631365166
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-max",
+    "pair": "20190423_20190505",
+    "area": 0.001851179613641227,
+    "max_region_area": 0.002487977423459603,
+    "any_exceed": 0,
+    "regions": [
+      0.002487977423459603,
+      0.001312025768701918,
+      0.0014372808069703093,
+      0.0018886379091823684
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-max",
+    "pair": "20190505_20190517",
+    "area": 0.012592551725605557,
+    "max_region_area": 0.057168160523319134,
+    "any_exceed": 1,
+    "regions": [
+      0.0035547124670198592,
+      0.011473962520186717,
+      0.007383218065053505,
+      0.057168160523319134
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-max",
+    "pair": "20190517_20190529",
+    "area": 0.0012283974309506506,
+    "max_region_area": 0.0018588334780252718,
+    "any_exceed": 0,
+    "regions": [
+      0.000856356010432205,
+      0.0018588334780252718,
+      0.0003919554028618446,
+      0.0010072860262582176
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Regional-max",
+    "pair": "20190704_20190716",
+    "is_event": true,
+    "area": 0.05381104370130063,
+    "max_region_area": 0.40279099085242337,
+    "any_exceed": 1,
+    "regions": [
+      3.233906983093828e-05,
+      0.030995866752027406,
+      0.001829030135868185,
+      0.40279099085242337
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Unscaled-max",
+    "pair": "20181130_20181212",
+    "area": 0.05035660940148897,
+    "max_region_area": 0.1578924701890647,
+    "any_exceed": 1,
+    "regions": [
+      0.08402923054491372,
+      0.0019684043952458287,
+      0.1578924701890647,
+      0.005666503775537306
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Unscaled-max",
+    "pair": "20181212_20181224",
+    "area": 0.015421576134596316,
+    "max_region_area": 0.03040149610941464,
+    "any_exceed": 0,
+    "regions": [
+      0.03040149610941464,
+      0.001279633545508741,
+      0.02711483127144799,
+      0.0013850695455021632
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Unscaled-max",
+    "pair": "20181224_20190105",
+    "area": 0.0002188174544358244,
+    "max_region_area": 0.0018885266556285356,
+    "any_exceed": 0,
+    "regions": [
+      6.462739698256549e-05,
+      0.0,
+      0.0,
+      0.0018885266556285356
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Unscaled-max",
+    "pair": "20190105_20190117",
+    "area": 0.17156415014528142,
+    "max_region_area": 0.40679855481657795,
+    "any_exceed": 1,
+    "regions": [
+      0.16374778862383182,
+      0.07514429864985837,
+      0.40679855481657795,
+      0.35384631805410616
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Unscaled-max",
+    "pair": "20190117_20190129",
+    "area": 0.14658858158100402,
+    "max_region_area": 0.3749647406659785,
+    "any_exceed": 1,
+    "regions": [
+      0.14929369089293396,
+      0.05705636159307814,
+      0.3749647406659785,
+      0.26747801108047187
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Unscaled-max",
+    "pair": "20190129_20190210",
+    "area": 0.03578278184827338,
+    "max_region_area": 0.09955777501357584,
+    "any_exceed": 1,
+    "regions": [
+      0.06108485069765971,
+      0.00365258032128798,
+      0.09955777501357584,
+      0.002013879259257453
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Unscaled-max",
+    "pair": "20190210_20190222",
+    "area": 0.02665335106768368,
+    "max_region_area": 0.05448394092818012,
+    "any_exceed": 1,
+    "regions": [
+      0.04898912346502495,
+      0.003428885604821968,
+      0.05448394092818012,
+      0.004090903167689608
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Unscaled-max",
+    "pair": "20190222_20190306",
+    "area": 0.2257068230566669,
+    "max_region_area": 0.5202399234306627,
+    "any_exceed": 1,
+    "regions": [
+      0.20926395524919783,
+      0.12916266033182078,
+      0.5202399234306627,
+      0.3848979306120623
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Unscaled-max",
+    "pair": "20190306_20190318",
+    "area": 0.17752804027912453,
+    "max_region_area": 0.4553872319328028,
+    "any_exceed": 1,
+    "regions": [
+      0.17334707021311416,
+      0.08634324545342636,
+      0.4553872319328028,
+      0.28404882496163625
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Unscaled-max",
+    "pair": "20190318_20190330",
+    "area": 0.002161274425364759,
+    "max_region_area": 0.004971187171692985,
+    "any_exceed": 0,
+    "regions": [
+      0.0009527836843396984,
+      0.0020514708981564244,
+      0.004572302347931885,
+      0.004971187171692985
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Unscaled-max",
+    "pair": "20190330_20190411",
+    "area": 0.002831150373388406,
+    "max_region_area": 0.01273777873163905,
+    "any_exceed": 0,
+    "regions": [
+      0.000743262706038258,
+      0.0013621429593000131,
+      0.01273777873163905,
+      0.007175431867066742
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Unscaled-max",
+    "pair": "20190411_20190423",
+    "area": 0.002322958785382805,
+    "max_region_area": 0.01391456566549069,
+    "any_exceed": 0,
+    "regions": [
+      0.0012605619593556358,
+      0.00020823818283518473,
+      0.01391456566549069,
+      0.0035881262631365166
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Unscaled-max",
+    "pair": "20190423_20190505",
+    "area": 0.0011829885102976933,
+    "max_region_area": 0.002148690762922351,
+    "any_exceed": 0,
+    "regions": [
+      0.002148690762922351,
+      0.00017599778287163894,
+      0.0006533568244013926,
+      0.0018886379091823684
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Unscaled-max",
+    "pair": "20190505_20190517",
+    "area": 0.008900653911697422,
+    "max_region_area": 0.057168160523319134,
+    "any_exceed": 1,
+    "regions": [
+      0.002892346319594449,
+      0.003750262726113685,
+      0.004051025226153824,
+      0.057168160523319134
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Unscaled-max",
+    "pair": "20190517_20190529",
+    "area": 0.0007267939352851741,
+    "max_region_area": 0.0010072860262582176,
+    "any_exceed": 0,
+    "regions": [
+      0.0007271016006983376,
+      0.0007532579237841402,
+      0.00032664956769188513,
+      0.0010072860262582176
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Unscaled-max",
+    "pair": "20190704_20190716",
+    "is_event": true,
+    "area": 0.04974575504983801,
+    "max_region_area": 0.40279099085242337,
+    "any_exceed": 1,
+    "regions": [
+      1.61694327287278e-05,
+      0.02107605289240012,
+      0.001045158892254979,
+      0.40279099085242337
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Repaired-max",
+    "pair": "20181130_20181212",
+    "area": 0.016835491939932983,
+    "max_region_area": 0.05781284387050304,
+    "any_exceed": 1,
+    "regions": [
+      0.026545754079164867,
+      0.0013124926640426782,
+      0.05781284387050304,
+      0.0005036565328770183
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Repaired-max",
+    "pair": "20181212_20181224",
+    "area": 0.004371062619827668,
+    "max_region_area": 0.008966595200946193,
+    "any_exceed": 0,
+    "regions": [
+      0.008966595200946193,
+      0.0007677778122687692,
+      0.004834625695944184,
+      0.0001888730859617142
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Repaired-max",
+    "pair": "20181224_20190105",
+    "area": 5.7936829000651074e-05,
+    "max_region_area": 0.0005666089337008167,
+    "any_exceed": 0,
+    "regions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0005666089337008167
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Repaired-max",
+    "pair": "20190105_20190117",
+    "area": 0.06696302106097564,
+    "max_region_area": 0.15984110347833871,
+    "any_exceed": 1,
+    "regions": [
+      0.057480269297741526,
+      0.04862491657674673,
+      0.15984110347833871,
+      0.08636878153607182
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Repaired-max",
+    "pair": "20190117_20190129",
+    "area": 0.05527225655342226,
+    "max_region_area": 0.14863601349923364,
+    "any_exceed": 1,
+    "regions": [
+      0.05530088447945818,
+      0.03484666731919442,
+      0.14863601349923364,
+      0.0453865465454666
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Repaired-max",
+    "pair": "20190129_20190210",
+    "area": 0.012495310442226133,
+    "max_region_area": 0.029723081294457,
+    "any_exceed": 0,
+    "regions": [
+      0.020636476917912712,
+      0.003236261946789401,
+      0.029723081294457,
+      0.0005664150591748693
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Repaired-max",
+    "pair": "20190210_20190222",
+    "area": 0.007934576464360821,
+    "max_region_area": 0.013668637374452243,
+    "any_exceed": 0,
+    "regions": [
+      0.013668637374452243,
+      0.003044460043276943,
+      0.011432819216822987,
+      0.001447574065173222
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Repaired-max",
+    "pair": "20190222_20190306",
+    "area": 0.09656906765697018,
+    "max_region_area": 0.22888765927242136,
+    "any_exceed": 1,
+    "regions": [
+      0.07060821810548774,
+      0.08873354522305031,
+      0.22888765927242136,
+      0.10085134193712106
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Repaired-max",
+    "pair": "20190306_20190318",
+    "area": 0.0688872810282313,
+    "max_region_area": 0.18688496894022188,
+    "any_exceed": 1,
+    "regions": [
+      0.05722687351399293,
+      0.057054120254363565,
+      0.18688496894022188,
+      0.047024777817782144
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Repaired-max",
+    "pair": "20190318_20190330",
+    "area": 0.0008748979133663037,
+    "max_region_area": 0.0017619075712924117,
+    "any_exceed": 0,
+    "regions": [
+      8.071780011386976e-05,
+      0.0016188324364394618,
+      0.00013067185811163796,
+      0.0017619075712924117
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Repaired-max",
+    "pair": "20190330_20190411",
+    "area": 0.0005726135072412197,
+    "max_region_area": 0.0009799058281209972,
+    "any_exceed": 0,
+    "regions": [
+      3.229056418591765e-05,
+      0.0009296281566974073,
+      0.0009799058281209972,
+      0.0008811007773426079
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Repaired-max",
+    "pair": "20190411_20190423",
+    "area": 6.433261939593455e-05,
+    "max_region_area": 0.00019596039248135898,
+    "any_exceed": 0,
+    "regions": [
+      3.2308285520417276e-05,
+      6.411422042759103e-05,
+      0.00019596039248135898,
+      6.295796003390344e-05
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Repaired-max",
+    "pair": "20190423_20190505",
+    "area": 0.0003535258665691222,
+    "max_region_area": 0.0007593165647921127,
+    "any_exceed": 0,
+    "regions": [
+      0.0007593165647921127,
+      6.398370096295058e-05,
+      0.0,
+      0.00025183025185562146
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Repaired-max",
+    "pair": "20190505_20190517",
+    "area": 0.0014988700388995568,
+    "max_region_area": 0.0026764687536174475,
+    "any_exceed": 0,
+    "regions": [
+      0.00058180037447368,
+      0.0026764687536174475,
+      0.0001307097620648492,
+      0.0017629696583289004
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Repaired-max",
+    "pair": "20190517_20190529",
+    "area": 0.00026374205994904667,
+    "max_region_area": 0.0005128625167177795,
+    "any_exceed": 0,
+    "regions": [
+      8.079521024939872e-05,
+      0.0005128625167177795,
+      0.0,
+      0.00025182786932056696
+    ]
+  },
+  {
+    "event": "ridgecrest",
+    "score": "robust",
+    "method": "Repaired-max",
+    "pair": "20190704_20190716",
+    "is_event": true,
+    "area": 0.032630980998535425,
+    "max_region_area": 0.24928139664018606,
+    "any_exceed": 1,
+    "regions": [
+      0.0,
+      0.017806672173993475,
+      0.0,
+      0.24928139664018606
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "event": "turkey",
+    "score": "difference",
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.32075471698113206,
+    "area": 0.04049596094579092
+  },
+  {
+    "event": "turkey",
+    "score": "difference",
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.22641509433962265,
+    "area": 0.01507607222749338
+  },
+  {
+    "event": "turkey",
+    "score": "difference",
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.07547169811320754,
+    "area": 0.013445980018970601
+  },
+  {
+    "event": "turkey",
+    "score": "difference",
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.11320754716981132,
+    "area": 0.006104195853963855
+  },
+  {
+    "event": "turkey",
+    "score": "log-ratio",
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.32075471698113206,
+    "area": 0.04554992360749078
+  },
+  {
+    "event": "turkey",
+    "score": "log-ratio",
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.20754716981132076,
+    "area": 0.013333571720576167
+  },
+  {
+    "event": "turkey",
+    "score": "log-ratio",
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.07547169811320754,
+    "area": 0.013203650891754098
+  },
+  {
+    "event": "turkey",
+    "score": "log-ratio",
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.05660377358490566,
+    "area": 0.004550481922643745
+  }
+]

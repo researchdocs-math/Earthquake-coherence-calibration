@@ -1,0 +1,35 @@
+{
+  "event": "ridgecrest",
+  "pair": "20181106_20181118",
+  "url": "https://gws-access.jasmin.ac.uk/public/nceo_geohazards/LiCSAR_products.public/71/071D_05377_131313/interferograms/20181106_20181118/20181106_20181118.geo.cc.tif",
+  "source_access": "HTTP range; metadata and intersecting compressed strips only",
+  "header_sha256": "a8bbd33162f01fcf28c30d4fadd7e7de232e490a6e660c59130aa18d545e615d",
+  "ranges": [
+    {
+      "start": 1709423,
+      "end": 1769091,
+      "sha256": "31787af53ceab60f802fce374e9f7eb25a6b1fe9739c2960f8a0e19fc069f7cb"
+    }
+  ],
+  "source_shape": [
+    2697,
+    3282
+  ],
+  "source_dtype": "uint8",
+  "nodata": null,
+  "crs": "EPSG:4326",
+  "transform": [
+    0.001,
+    0.0,
+    -118.0504444,
+    0.0,
+    -0.001,
+    36.1505
+  ],
+  "crop_shape": [
+    500,
+    500
+  ],
+  "zero_fraction": 1.0,
+  "sha256_crop": "cd7b70bdf09cc96c295c0185da0313020307e3a211b6e165212e0672f8b09e02"
+}

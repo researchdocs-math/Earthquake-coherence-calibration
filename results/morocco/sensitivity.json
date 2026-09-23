@@ -1,0 +1,642 @@
+[
+  {
+    "event": "morocco",
+    "regions": 1,
+    "rho": 0.01,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.41509433962264153,
+    "area": 0.03214711073517334,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 1,
+    "rho": 0.01,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.013868854524665342,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 1,
+    "rho": 0.01,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.013868854524665342,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 1,
+    "rho": 0.01,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.013868854524665342,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 1,
+    "rho": 0.025,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.41509433962264153,
+    "area": 0.05968366656314176,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 1,
+    "rho": 0.025,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.025897713245186832,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 1,
+    "rho": 0.025,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.025897713245186832,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 1,
+    "rho": 0.025,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.025897713245186832,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 1,
+    "rho": 0.05,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.4339622641509434,
+    "area": 0.09847531746868829,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 1,
+    "rho": 0.05,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.22641509433962265,
+    "area": 0.04235305845416013,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 1,
+    "rho": 0.05,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.22641509433962265,
+    "area": 0.04235305845416013,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 1,
+    "rho": 0.05,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.22641509433962265,
+    "area": 0.04235305845416013,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 1,
+    "rho": 0.1,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.49056603773584906,
+    "area": 0.17515822578234494,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 1,
+    "rho": 0.1,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.07064945034564854,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 1,
+    "rho": 0.1,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.07064945034564854,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 1,
+    "rho": 0.1,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.07064945034564854,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 4,
+    "rho": 0.01,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.5849056603773585,
+    "area": 0.03214711073517334,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 4,
+    "rho": 0.01,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.3584905660377358,
+    "area": 0.013868854524665342,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 4,
+    "rho": 0.01,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.22641509433962265,
+    "area": 0.008172366351656472,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 4,
+    "rho": 0.01,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.22641509433962265,
+    "area": 0.006333498275952401,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 4,
+    "rho": 0.025,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.5094339622641509,
+    "area": 0.05968366656314176,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 4,
+    "rho": 0.025,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.3584905660377358,
+    "area": 0.025897713245186832,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 4,
+    "rho": 0.025,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.22641509433962265,
+    "area": 0.014430002877683921,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 4,
+    "rho": 0.025,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.1509433962264151,
+    "area": 0.0070136538979022126,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 4,
+    "rho": 0.05,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.5471698113207547,
+    "area": 0.09847531746868829,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 4,
+    "rho": 0.05,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.3584905660377358,
+    "area": 0.04235305845416013,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 4,
+    "rho": 0.05,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.20754716981132076,
+    "area": 0.02187651492098281,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 4,
+    "rho": 0.05,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.1509433962264151,
+    "area": 0.012809820136654751,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 4,
+    "rho": 0.1,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.5849056603773585,
+    "area": 0.17515822578234494,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 4,
+    "rho": 0.1,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.3584905660377358,
+    "area": 0.07064945034564854,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 4,
+    "rho": 0.1,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.18867924528301888,
+    "area": 0.03425727281945682,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 4,
+    "rho": 0.1,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.16981132075471697,
+    "area": 0.02471151800182883,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 9,
+    "rho": 0.01,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.6981132075471698,
+    "area": 0.03214711073517334,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 9,
+    "rho": 0.01,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.4528301886792453,
+    "area": 0.013868854524665342,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 9,
+    "rho": 0.01,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.0,
+    "area": 0.0,
+    "finite": false
+  },
+  {
+    "event": "morocco",
+    "regions": 9,
+    "rho": 0.01,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.006407450329553689,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 9,
+    "rho": 0.025,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.6226415094339622,
+    "area": 0.05968366656314176,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 9,
+    "rho": 0.025,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.41509433962264153,
+    "area": 0.025897713245186832,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 9,
+    "rho": 0.025,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.0,
+    "area": 0.0,
+    "finite": false
+  },
+  {
+    "event": "morocco",
+    "regions": 9,
+    "rho": 0.025,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.20754716981132076,
+    "area": 0.009359228512621207,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 9,
+    "rho": 0.05,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.6226415094339622,
+    "area": 0.09847531746868829,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 9,
+    "rho": 0.05,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.41509433962264153,
+    "area": 0.04235305845416013,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 9,
+    "rho": 0.05,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.0,
+    "area": 0.0,
+    "finite": false
+  },
+  {
+    "event": "morocco",
+    "regions": 9,
+    "rho": 0.05,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.18867924528301888,
+    "area": 0.012091702342414976,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 9,
+    "rho": 0.1,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.6037735849056604,
+    "area": 0.17515822578234494,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 9,
+    "rho": 0.1,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.4339622641509434,
+    "area": 0.07064945034564854,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 9,
+    "rho": 0.1,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.0,
+    "area": 0.0,
+    "finite": false
+  },
+  {
+    "event": "morocco",
+    "regions": 9,
+    "rho": 0.1,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.20754716981132076,
+    "area": 0.022664658100762184,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 16,
+    "rho": 0.01,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.9245283018867925,
+    "area": 0.03214711073517334,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 16,
+    "rho": 0.01,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.7547169811320755,
+    "area": 0.013868854524665342,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 16,
+    "rho": 0.01,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.0,
+    "area": 0.0,
+    "finite": false
+  },
+  {
+    "event": "morocco",
+    "regions": 16,
+    "rho": 0.01,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.33962264150943394,
+    "area": 0.005861256894857522,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 16,
+    "rho": 0.025,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.8867924528301887,
+    "area": 0.05968366656314176,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 16,
+    "rho": 0.025,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.7169811320754716,
+    "area": 0.025897713245186832,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 16,
+    "rho": 0.025,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.0,
+    "area": 0.0,
+    "finite": false
+  },
+  {
+    "event": "morocco",
+    "regions": 16,
+    "rho": 0.025,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.32075471698113206,
+    "area": 0.011152561691956395,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 16,
+    "rho": 0.05,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.9056603773584906,
+    "area": 0.09847531746868829,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 16,
+    "rho": 0.05,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.6415094339622641,
+    "area": 0.04235305845416013,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 16,
+    "rho": 0.05,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.0,
+    "area": 0.0,
+    "finite": false
+  },
+  {
+    "event": "morocco",
+    "regions": 16,
+    "rho": 0.05,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.2830188679245283,
+    "area": 0.012603220348485284,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 16,
+    "rho": 0.1,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.8867924528301887,
+    "area": 0.17515822578234494,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 16,
+    "rho": 0.1,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.5471698113207547,
+    "area": 0.07064945034564854,
+    "finite": true
+  },
+  {
+    "event": "morocco",
+    "regions": 16,
+    "rho": 0.1,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.0,
+    "area": 0.0,
+    "finite": false
+  },
+  {
+    "event": "morocco",
+    "regions": 16,
+    "rho": 0.1,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.16981132075471697,
+    "area": 0.01623044615614137,
+    "finite": true
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "event": "morocco",
+    "score": "difference",
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.5849056603773585,
+    "area": 0.10915592797690261
+  },
+  {
+    "event": "morocco",
+    "score": "difference",
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.41509433962264153,
+    "area": 0.061653247198466515
+  },
+  {
+    "event": "morocco",
+    "score": "difference",
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.20754716981132076,
+    "area": 0.02092351666289686
+  },
+  {
+    "event": "morocco",
+    "score": "difference",
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.20754716981132076,
+    "area": 0.020767589361044374
+  },
+  {
+    "event": "morocco",
+    "score": "log-ratio",
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.6226415094339622,
+    "area": 0.11132100511086483
+  },
+  {
+    "event": "morocco",
+    "score": "log-ratio",
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.41509433962264153,
+    "area": 0.060606523442325214
+  },
+  {
+    "event": "morocco",
+    "score": "log-ratio",
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.1509433962264151,
+    "area": 0.016622427183176847
+  },
+  {
+    "event": "morocco",
+    "score": "log-ratio",
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.09433962264150944,
+    "area": 0.010250576725051395
+  }
+]

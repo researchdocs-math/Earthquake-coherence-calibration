@@ -1,0 +1,50 @@
+{
+  "event": "ridgecrest",
+  "pair": "20190704_20190716",
+  "url": "https://data.ceda.ac.uk/neodc/comet/data/licsar_products/71/071D_05377_131313/20190704_20190716/20190704_20190716.geo.cc.tif",
+  "source_access": "HTTP range; metadata and intersecting compressed strips only",
+  "header_sha256": "9222966cd154344606200e1e39b8e0aa4b227897bf9632b1adf9961ff81d9392",
+  "ranges": [
+    {
+      "start": 2224562,
+      "end": 2486705,
+      "sha256": "1869f13ec81f7dd27c1a33d56c4afe04cc0b69cea7fd8cd87d73907bb972af8f"
+    },
+    {
+      "start": 2486706,
+      "end": 2748849,
+      "sha256": "92808903db63ad013fc6f7ca0d396c0c9c9c95ed97550f14e84401045b79ec23"
+    },
+    {
+      "start": 2748850,
+      "end": 3010993,
+      "sha256": "54cebb021b033e5de56b531d2485b49e104014e600e19882a6268c8ebb22b32b"
+    },
+    {
+      "start": 3010994,
+      "end": 3272212,
+      "sha256": "ad6d671fd5cf607e479bf5aff76af85cac89e9e4a994dd9d93147f98e3c3d1ee"
+    }
+  ],
+  "source_shape": [
+    2697,
+    3282
+  ],
+  "source_dtype": "uint8",
+  "nodata": 0.0,
+  "crs": "EPSG:4326",
+  "transform": [
+    0.001,
+    0.0,
+    -118.05144440000001,
+    0.0,
+    -0.001,
+    36.1505
+  ],
+  "crop_shape": [
+    500,
+    500
+  ],
+  "zero_fraction": 4.8e-05,
+  "sha256_crop": "59c5c2d0140b3f10047e3c8b95c9862e0e5984c90b2186f7ca6dc289a8e570c6"
+}

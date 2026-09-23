@@ -1,0 +1,242 @@
+[
+  {
+    "event": "ridgecrest",
+    "method": "Bonferroni",
+    "n": 15,
+    "breaches": 0,
+    "rate": 0.0,
+    "mean_area": 0.0,
+    "block_low": 0.0,
+    "block_high": 0.0
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Gaussian",
+    "n": 15,
+    "breaches": 14,
+    "rate": 0.9333333333333333,
+    "mean_area": 0.3505274772468105,
+    "block_low": 0.8,
+    "block_high": 1.0
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Global-map",
+    "n": 15,
+    "breaches": 10,
+    "rate": 0.6666666666666666,
+    "mean_area": 0.10938862798551674,
+    "block_low": 0.4666666666666667,
+    "block_high": 0.8666666666666667
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Pooled",
+    "n": 15,
+    "breaches": 14,
+    "rate": 0.9333333333333333,
+    "mean_area": 0.2524875089925636,
+    "block_low": 0.8,
+    "block_high": 1.0
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Regional-max",
+    "n": 15,
+    "breaches": 8,
+    "rate": 0.5333333333333333,
+    "mean_area": 0.07568100480971984,
+    "block_low": 0.26666666666666666,
+    "block_high": 0.8666666666666667
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Regional-pool",
+    "n": 15,
+    "breaches": 12,
+    "rate": 0.8,
+    "mean_area": 0.25107384758516266,
+    "block_low": 0.6666666666666666,
+    "block_high": 0.9333333333333333
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Repaired-max",
+    "n": 15,
+    "breaches": 5,
+    "rate": 0.3333333333333333,
+    "mean_area": 0.02220093244002424,
+    "block_low": 0.13333333333333333,
+    "block_high": 0.5333333333333333
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Unscaled-max",
+    "n": 15,
+    "breaches": 8,
+    "rate": 0.5333333333333333,
+    "mean_area": 0.057863103393997535,
+    "block_low": 0.26666666666666666,
+    "block_high": 0.8666666666666667
+  },
+  {
+    "event": "turkey",
+    "method": "Bonferroni",
+    "n": 53,
+    "breaches": 3,
+    "rate": 0.05660377358490566,
+    "mean_area": 0.010551021561824907,
+    "block_low": 0.0,
+    "block_high": 0.16981132075471697
+  },
+  {
+    "event": "turkey",
+    "method": "Gaussian",
+    "n": 53,
+    "breaches": 52,
+    "rate": 0.9811320754716981,
+    "mean_area": 0.31799765939723174,
+    "block_low": 0.9433962264150944,
+    "block_high": 1.0
+  },
+  {
+    "event": "turkey",
+    "method": "Global-map",
+    "n": 53,
+    "breaches": 8,
+    "rate": 0.1509433962264151,
+    "mean_area": 0.018228103478130867,
+    "block_low": 0.018867924528301886,
+    "block_high": 0.32075471698113206
+  },
+  {
+    "event": "turkey",
+    "method": "Pooled",
+    "n": 53,
+    "breaches": 18,
+    "rate": 0.33962264150943394,
+    "mean_area": 0.05050096677821206,
+    "block_low": 0.1509433962264151,
+    "block_high": 0.5471698113207547
+  },
+  {
+    "event": "turkey",
+    "method": "Regional-max",
+    "n": 53,
+    "breaches": 4,
+    "rate": 0.07547169811320754,
+    "mean_area": 0.01301256777162794,
+    "block_low": 0.0,
+    "block_high": 0.18867924528301888
+  },
+  {
+    "event": "turkey",
+    "method": "Regional-pool",
+    "n": 53,
+    "breaches": 24,
+    "rate": 0.4528301886792453,
+    "mean_area": 0.05301296336741174,
+    "block_low": 0.2641509433962264,
+    "block_high": 0.6415094339622641
+  },
+  {
+    "event": "turkey",
+    "method": "Repaired-max",
+    "n": 53,
+    "breaches": 3,
+    "rate": 0.05660377358490566,
+    "mean_area": 0.008781302349737945,
+    "block_low": 0.0,
+    "block_high": 0.16981132075471697
+  },
+  {
+    "event": "turkey",
+    "method": "Unscaled-max",
+    "n": 53,
+    "breaches": 3,
+    "rate": 0.05660377358490566,
+    "mean_area": 0.009038054357697858,
+    "block_low": 0.0,
+    "block_high": 0.16981132075471697
+  },
+  {
+    "event": "morocco",
+    "method": "Bonferroni",
+    "n": 53,
+    "breaches": 11,
+    "rate": 0.20754716981132076,
+    "mean_area": 0.02187651492098227,
+    "block_low": 0.07547169811320754,
+    "block_high": 0.33962264150943394
+  },
+  {
+    "event": "morocco",
+    "method": "Gaussian",
+    "n": 53,
+    "breaches": 29,
+    "rate": 0.5471698113207547,
+    "mean_area": 0.09675369317305046,
+    "block_low": 0.37735849056603776,
+    "block_high": 0.7169811320754716
+  },
+  {
+    "event": "morocco",
+    "method": "Global-map",
+    "n": 53,
+    "breaches": 19,
+    "rate": 0.3584905660377358,
+    "mean_area": 0.04235305845415961,
+    "block_low": 0.20754716981132076,
+    "block_high": 0.5283018867924528
+  },
+  {
+    "event": "morocco",
+    "method": "Pooled",
+    "n": 53,
+    "breaches": 29,
+    "rate": 0.5471698113207547,
+    "mean_area": 0.09847531746868786,
+    "block_low": 0.37735849056603776,
+    "block_high": 0.7169811320754716
+  },
+  {
+    "event": "morocco",
+    "method": "Regional-max",
+    "n": 53,
+    "breaches": 8,
+    "rate": 0.1509433962264151,
+    "mean_area": 0.01280982013665434,
+    "block_low": 0.03773584905660377,
+    "block_high": 0.2830188679245283
+  },
+  {
+    "event": "morocco",
+    "method": "Regional-pool",
+    "n": 53,
+    "breaches": 31,
+    "rate": 0.5849056603773585,
+    "mean_area": 0.11024903362517839,
+    "block_low": 0.4339622641509434,
+    "block_high": 0.7358490566037735
+  },
+  {
+    "event": "morocco",
+    "method": "Repaired-max",
+    "n": 53,
+    "breaches": 7,
+    "rate": 0.1320754716981132,
+    "mean_area": 0.011674568192516468,
+    "block_low": 0.018867924528301886,
+    "block_high": 0.2830188679245283
+  },
+  {
+    "event": "morocco",
+    "method": "Unscaled-max",
+    "n": 53,
+    "breaches": 14,
+    "rate": 0.2641509433962264,
+    "mean_area": 0.025144377823855018,
+    "block_low": 0.1320754716981132,
+    "block_high": 0.41509433962264153
+  }
+]

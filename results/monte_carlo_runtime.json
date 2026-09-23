@@ -1,0 +1,6 @@
+{
+  "seconds": 108.79229216696694,
+  "workers": 8,
+  "repetitions_per_scenario": 50000,
+  "platform": "macOS-14.8.1-arm64-arm-64bit"
+}

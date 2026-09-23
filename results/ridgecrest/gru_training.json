@@ -1,0 +1,242 @@
+[
+  {
+    "epoch": 1,
+    "validation_nll": 0.5001534819602966
+  },
+  {
+    "epoch": 2,
+    "validation_nll": 0.496422678232193
+  },
+  {
+    "epoch": 3,
+    "validation_nll": 0.4849066436290741
+  },
+  {
+    "epoch": 4,
+    "validation_nll": 0.4572644829750061
+  },
+  {
+    "epoch": 5,
+    "validation_nll": 0.4183737337589264
+  },
+  {
+    "epoch": 6,
+    "validation_nll": 0.37473198771476746
+  },
+  {
+    "epoch": 7,
+    "validation_nll": 0.3450601100921631
+  },
+  {
+    "epoch": 8,
+    "validation_nll": 0.3373938202857971
+  },
+  {
+    "epoch": 9,
+    "validation_nll": 0.3362049460411072
+  },
+  {
+    "epoch": 10,
+    "validation_nll": 0.3296697735786438
+  },
+  {
+    "epoch": 11,
+    "validation_nll": 0.31660348176956177
+  },
+  {
+    "epoch": 12,
+    "validation_nll": 0.3121269941329956
+  },
+  {
+    "epoch": 13,
+    "validation_nll": 0.30282604694366455
+  },
+  {
+    "epoch": 14,
+    "validation_nll": 0.29302167892456055
+  },
+  {
+    "epoch": 15,
+    "validation_nll": 0.2796618640422821
+  },
+  {
+    "epoch": 16,
+    "validation_nll": 0.2699637711048126
+  },
+  {
+    "epoch": 17,
+    "validation_nll": 0.26031431555747986
+  },
+  {
+    "epoch": 18,
+    "validation_nll": 0.24728186428546906
+  },
+  {
+    "epoch": 19,
+    "validation_nll": 0.22584466636180878
+  },
+  {
+    "epoch": 20,
+    "validation_nll": 0.2097826898097992
+  },
+  {
+    "epoch": 21,
+    "validation_nll": 0.20269359648227692
+  },
+  {
+    "epoch": 22,
+    "validation_nll": 0.19901248812675476
+  },
+  {
+    "epoch": 23,
+    "validation_nll": 0.1981412023305893
+  },
+  {
+    "epoch": 24,
+    "validation_nll": 0.19682855904102325
+  },
+  {
+    "epoch": 25,
+    "validation_nll": 0.1948731243610382
+  },
+  {
+    "epoch": 26,
+    "validation_nll": 0.1929003745317459
+  },
+  {
+    "epoch": 27,
+    "validation_nll": 0.1934649497270584
+  },
+  {
+    "epoch": 28,
+    "validation_nll": 0.193649560213089
+  },
+  {
+    "epoch": 29,
+    "validation_nll": 0.19241435825824738
+  },
+  {
+    "epoch": 30,
+    "validation_nll": 0.18802496790885925
+  },
+  {
+    "epoch": 31,
+    "validation_nll": 0.1849474310874939
+  },
+  {
+    "epoch": 32,
+    "validation_nll": 0.18253451585769653
+  },
+  {
+    "epoch": 33,
+    "validation_nll": 0.18000638484954834
+  },
+  {
+    "epoch": 34,
+    "validation_nll": 0.18028362095355988
+  },
+  {
+    "epoch": 35,
+    "validation_nll": 0.17743994295597076
+  },
+  {
+    "epoch": 36,
+    "validation_nll": 0.17582173645496368
+  },
+  {
+    "epoch": 37,
+    "validation_nll": 0.1741853952407837
+  },
+  {
+    "epoch": 38,
+    "validation_nll": 0.17329804599285126
+  },
+  {
+    "epoch": 39,
+    "validation_nll": 0.17202451825141907
+  },
+  {
+    "epoch": 40,
+    "validation_nll": 0.17110797762870789
+  },
+  {
+    "epoch": 41,
+    "validation_nll": 0.17072199285030365
+  },
+  {
+    "epoch": 42,
+    "validation_nll": 0.17092320322990417
+  },
+  {
+    "epoch": 43,
+    "validation_nll": 0.17085668444633484
+  },
+  {
+    "epoch": 44,
+    "validation_nll": 0.17032243311405182
+  },
+  {
+    "epoch": 45,
+    "validation_nll": 0.1716623604297638
+  },
+  {
+    "epoch": 46,
+    "validation_nll": 0.1708517074584961
+  },
+  {
+    "epoch": 47,
+    "validation_nll": 0.172659233212471
+  },
+  {
+    "epoch": 48,
+    "validation_nll": 0.1740308254957199
+  },
+  {
+    "epoch": 49,
+    "validation_nll": 0.17203666269779205
+  },
+  {
+    "epoch": 50,
+    "validation_nll": 0.1723901629447937
+  },
+  {
+    "epoch": 51,
+    "validation_nll": 0.17298588156700134
+  },
+  {
+    "epoch": 52,
+    "validation_nll": 0.1682898998260498
+  },
+  {
+    "epoch": 53,
+    "validation_nll": 0.1675429344177246
+  },
+  {
+    "epoch": 54,
+    "validation_nll": 0.16617698967456818
+  },
+  {
+    "epoch": 55,
+    "validation_nll": 0.1670314073562622
+  },
+  {
+    "epoch": 56,
+    "validation_nll": 0.16870060563087463
+  },
+  {
+    "epoch": 57,
+    "validation_nll": 0.16738979518413544
+  },
+  {
+    "epoch": 58,
+    "validation_nll": 0.16720032691955566
+  },
+  {
+    "epoch": 59,
+    "validation_nll": 0.16643041372299194
+  },
+  {
+    "epoch": 60,
+    "validation_nll": 0.1662667989730835
+  }
+]

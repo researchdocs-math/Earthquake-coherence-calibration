@@ -1,0 +1,55 @@
+{
+  "event": "morocco",
+  "pair": "20220131_20220212",
+  "url": "https://data.ceda.ac.uk/neodc/comet/data/licsar_products/154/154D_05948_131313/20220131_20220212/20220131_20220212.geo.cc.tif",
+  "source_access": "HTTP range; metadata and intersecting compressed strips only",
+  "header_sha256": "9a70b3183406b6b9e546a27348fc474d502f8e97357b06f751c635cc8702f560",
+  "ranges": [
+    {
+      "start": 334614,
+      "end": 596757,
+      "sha256": "dab6052aa1e1f06b28f28cb42b0cbaa1ff2bed8cf495297231e968778869467c"
+    },
+    {
+      "start": 596758,
+      "end": 858901,
+      "sha256": "696d282af4c9e04d9a0c9a949347aa7b7831e165d1d6bb5e97dc13ddfbdedb2d"
+    },
+    {
+      "start": 858902,
+      "end": 1121045,
+      "sha256": "21ae0f0a44631126d6aa62ee71227e98a1e1d63b0255d779dae97783f55eb2d1"
+    },
+    {
+      "start": 1121046,
+      "end": 1383189,
+      "sha256": "881d4ea2559c372d4434d26ed1cdd04499a95c961ffd212b97bd3cf90259b7d4"
+    },
+    {
+      "start": 1383190,
+      "end": 1616306,
+      "sha256": "2d8dd42031efcd98130c205dd1f5ff8c38f6c93c2f74e507dc16ff20e96965e9"
+    }
+  ],
+  "source_shape": [
+    2713,
+    3175
+  ],
+  "source_dtype": "uint8",
+  "nodata": null,
+  "crs": "EPSG:4326",
+  "transform": [
+    0.001,
+    0.0,
+    -8.7508889,
+    0.0,
+    -0.001,
+    31.4505555
+  ],
+  "crop_shape": [
+    700,
+    700
+  ],
+  "zero_fraction": 0.14863469387755102,
+  "sha256_crop": "18062d44d50dcb3c1997729244fc5f5cddac34a68432909699c79b1d4c201ef1"
+}

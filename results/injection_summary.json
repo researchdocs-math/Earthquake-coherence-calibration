@@ -1,0 +1,962 @@
+[
+  {
+    "event": "ridgecrest",
+    "method": "Bonferroni",
+    "delta": 0.05,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.0,
+    "low": 0.0,
+    "high": 0.0
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Bonferroni",
+    "delta": 0.1,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.0,
+    "low": 0.0,
+    "high": 0.0
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Bonferroni",
+    "delta": 0.2,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.0,
+    "low": 0.0,
+    "high": 0.0
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Bonferroni",
+    "delta": 0.30000000000000004,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.0,
+    "low": 0.0,
+    "high": 0.0
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Gaussian",
+    "delta": 0.05,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.45451275739687574,
+    "low": 0.3545646398621565,
+    "high": 0.5570002540791542
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Gaussian",
+    "delta": 0.1,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.5821731525187649,
+    "low": 0.4992451606509833,
+    "high": 0.6629020663061352
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Gaussian",
+    "delta": 0.2,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.8009427456887757,
+    "low": 0.7416247562974442,
+    "high": 0.8523518369983321
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Gaussian",
+    "delta": 0.30000000000000004,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.9275768747046823,
+    "low": 0.8904281725161161,
+    "high": 0.9572560333545912
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Global-map",
+    "delta": 0.05,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.15031694371053225,
+    "low": 0.06753592437950107,
+    "high": 0.23643486741161857
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Global-map",
+    "delta": 0.1,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.2101723360620692,
+    "low": 0.12116578445130574,
+    "high": 0.30383385564397525
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Global-map",
+    "delta": 0.2,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.35913992701523884,
+    "low": 0.27058371500258716,
+    "high": 0.45147774009717606
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Global-map",
+    "delta": 0.30000000000000004,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.5237605939111535,
+    "low": 0.44922577077082665,
+    "high": 0.602184362471249
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Pooled",
+    "delta": 0.05,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.3280200680098899,
+    "low": 0.2172580199869001,
+    "high": 0.4429704821315831
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Pooled",
+    "delta": 0.1,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.4290360334210534,
+    "low": 0.33616235825213175,
+    "high": 0.5290247184171611
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Pooled",
+    "delta": 0.2,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.6394019607449125,
+    "low": 0.5698912947760945,
+    "high": 0.7069230134289678
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Pooled",
+    "delta": 0.30000000000000004,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.811857269478541,
+    "low": 0.7606531447282379,
+    "high": 0.8585023753371788
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Regional-max",
+    "delta": 0.05,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.11310514849075094,
+    "low": 0.041665553910550955,
+    "high": 0.188350501149581
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Regional-max",
+    "delta": 0.1,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.1641730150629596,
+    "low": 0.07666085794066287,
+    "high": 0.25522509137470456
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Regional-max",
+    "delta": 0.2,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.2927631095944678,
+    "low": 0.19440158891663487,
+    "high": 0.39563345470800293
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Regional-max",
+    "delta": 0.30000000000000004,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.44310352423068095,
+    "low": 0.3510976344775517,
+    "high": 0.5415239422491668
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Regional-pool",
+    "delta": 0.05,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.3353908495635817,
+    "low": 0.2115169004117589,
+    "high": 0.4633725903526427
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Regional-pool",
+    "delta": 0.1,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.4405617063888413,
+    "low": 0.3370940478486996,
+    "high": 0.5523323710056066
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Regional-pool",
+    "delta": 0.2,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.6674789128169901,
+    "low": 0.5915082065030673,
+    "high": 0.7360794922380287
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Regional-pool",
+    "delta": 0.30000000000000004,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.846710176363533,
+    "low": 0.7931363501228393,
+    "high": 0.8915501694598152
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Repaired-max",
+    "delta": 0.05,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.04840944119943492,
+    "low": 0.013456288816350146,
+    "high": 0.08484066710479297
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Repaired-max",
+    "delta": 0.1,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.0747103902283479,
+    "low": 0.025807516558760814,
+    "high": 0.12534100685678318
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Repaired-max",
+    "delta": 0.2,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.1520711968891368,
+    "low": 0.08077071436466739,
+    "high": 0.2264691742294433
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Repaired-max",
+    "delta": 0.30000000000000004,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.2663164297840791,
+    "low": 0.1792212221385024,
+    "high": 0.35835700086541544
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Unscaled-max",
+    "delta": 0.05,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.0901432479719579,
+    "low": 0.03408912884608616,
+    "high": 0.14965364520506375
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Unscaled-max",
+    "delta": 0.1,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.12896160626981398,
+    "low": 0.05934076438211466,
+    "high": 0.20138419728914833
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Unscaled-max",
+    "delta": 0.2,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.24104427460075337,
+    "low": 0.15714174783728319,
+    "high": 0.3280995522214477
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Unscaled-max",
+    "delta": 0.30000000000000004,
+    "dates": 15,
+    "patches": 120,
+    "mean": 0.381299929626254,
+    "low": 0.2989672347978532,
+    "high": 0.4682425135819971
+  },
+  {
+    "event": "turkey",
+    "method": "Bonferroni",
+    "delta": 0.05,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.034938461844524385,
+    "low": 0.0038837574713369233,
+    "high": 0.07989871608581324
+  },
+  {
+    "event": "turkey",
+    "method": "Bonferroni",
+    "delta": 0.1,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.05177727924921269,
+    "low": 0.00792952009974206,
+    "high": 0.1150104046055779
+  },
+  {
+    "event": "turkey",
+    "method": "Bonferroni",
+    "delta": 0.2,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.07939601273867826,
+    "low": 0.023750550359272482,
+    "high": 0.15671477543587253
+  },
+  {
+    "event": "turkey",
+    "method": "Bonferroni",
+    "delta": 0.30000000000000004,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.12550783224873624,
+    "low": 0.06414641763502998,
+    "high": 0.20649990900626428
+  },
+  {
+    "event": "turkey",
+    "method": "Gaussian",
+    "delta": 0.05,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.43343966711441084,
+    "low": 0.31280182809086443,
+    "high": 0.5654750461510503
+  },
+  {
+    "event": "turkey",
+    "method": "Gaussian",
+    "delta": 0.1,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.533381983671851,
+    "low": 0.4165338006934405,
+    "high": 0.6570719056789351
+  },
+  {
+    "event": "turkey",
+    "method": "Gaussian",
+    "delta": 0.2,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.7436721761738478,
+    "low": 0.6558940781565817,
+    "high": 0.8268641935761004
+  },
+  {
+    "event": "turkey",
+    "method": "Gaussian",
+    "delta": 0.30000000000000004,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.8954138920397577,
+    "low": 0.8515218115001004,
+    "high": 0.9363514073159277
+  },
+  {
+    "event": "turkey",
+    "method": "Global-map",
+    "delta": 0.05,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.05859162013258948,
+    "low": 0.008162663471857933,
+    "high": 0.12682529524108355
+  },
+  {
+    "event": "turkey",
+    "method": "Global-map",
+    "delta": 0.1,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.08195564386271445,
+    "low": 0.01500251508825835,
+    "high": 0.17304918761710594
+  },
+  {
+    "event": "turkey",
+    "method": "Global-map",
+    "delta": 0.2,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.12174009797677508,
+    "low": 0.04032707683964646,
+    "high": 0.23095429606282356
+  },
+  {
+    "event": "turkey",
+    "method": "Global-map",
+    "delta": 0.30000000000000004,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.18592412490802895,
+    "low": 0.0975460023970974,
+    "high": 0.29319669653287384
+  },
+  {
+    "event": "turkey",
+    "method": "Pooled",
+    "delta": 0.05,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.10448984518734392,
+    "low": 0.025215768044880068,
+    "high": 0.2065853745215586
+  },
+  {
+    "event": "turkey",
+    "method": "Pooled",
+    "delta": 0.1,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.1349165058225414,
+    "low": 0.04263161416523034,
+    "high": 0.253148636549375
+  },
+  {
+    "event": "turkey",
+    "method": "Pooled",
+    "delta": 0.2,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.2056828893604898,
+    "low": 0.10166889089560029,
+    "high": 0.3323241959393125
+  },
+  {
+    "event": "turkey",
+    "method": "Pooled",
+    "delta": 0.30000000000000004,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.31724064815782915,
+    "low": 0.2069607647930523,
+    "high": 0.44331532084205244
+  },
+  {
+    "event": "turkey",
+    "method": "Regional-max",
+    "delta": 0.05,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.03689959103746703,
+    "low": 0.005276632178973261,
+    "high": 0.08216400778250622
+  },
+  {
+    "event": "turkey",
+    "method": "Regional-max",
+    "delta": 0.1,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.05438659688752438,
+    "low": 0.010352296409126946,
+    "high": 0.11723193724514859
+  },
+  {
+    "event": "turkey",
+    "method": "Regional-max",
+    "delta": 0.2,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.08518444139184658,
+    "low": 0.0296281801906561,
+    "high": 0.162609011601072
+  },
+  {
+    "event": "turkey",
+    "method": "Regional-max",
+    "delta": 0.30000000000000004,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.1373238519948117,
+    "low": 0.07623109876537204,
+    "high": 0.2158153827687307
+  },
+  {
+    "event": "turkey",
+    "method": "Regional-pool",
+    "delta": 0.05,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.09534096340652762,
+    "low": 0.026255869367980557,
+    "high": 0.1860782108299539
+  },
+  {
+    "event": "turkey",
+    "method": "Regional-pool",
+    "delta": 0.1,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.1278960997121373,
+    "low": 0.0446306958555329,
+    "high": 0.2353412581641227
+  },
+  {
+    "event": "turkey",
+    "method": "Regional-pool",
+    "delta": 0.2,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.2007289170645411,
+    "low": 0.10590618036439793,
+    "high": 0.3180948284757163
+  },
+  {
+    "event": "turkey",
+    "method": "Regional-pool",
+    "delta": 0.30000000000000004,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.30972442462337013,
+    "low": 0.2070766465225299,
+    "high": 0.4259655254628831
+  },
+  {
+    "event": "turkey",
+    "method": "Repaired-max",
+    "delta": 0.05,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.026630038308086617,
+    "low": 0.0031173042286659113,
+    "high": 0.06147506452655986
+  },
+  {
+    "event": "turkey",
+    "method": "Repaired-max",
+    "delta": 0.1,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.039945837137051424,
+    "low": 0.006274904114147881,
+    "high": 0.08876485009166998
+  },
+  {
+    "event": "turkey",
+    "method": "Repaired-max",
+    "delta": 0.2,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.06167658381312255,
+    "low": 0.019083232091424596,
+    "high": 0.12237940828672926
+  },
+  {
+    "event": "turkey",
+    "method": "Repaired-max",
+    "delta": 0.30000000000000004,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.09945995647152364,
+    "low": 0.05161889000669901,
+    "high": 0.16320168680064806
+  },
+  {
+    "event": "turkey",
+    "method": "Unscaled-max",
+    "delta": 0.05,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.03851427680380505,
+    "low": 0.004071456492365467,
+    "high": 0.08623441005108223
+  },
+  {
+    "event": "turkey",
+    "method": "Unscaled-max",
+    "delta": 0.1,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.05721723505847386,
+    "low": 0.00816952968110893,
+    "high": 0.1253407005969814
+  },
+  {
+    "event": "turkey",
+    "method": "Unscaled-max",
+    "delta": 0.2,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.08499224880736136,
+    "low": 0.023526566218675316,
+    "high": 0.1699913130726468
+  },
+  {
+    "event": "turkey",
+    "method": "Unscaled-max",
+    "delta": 0.30000000000000004,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.12900725032987895,
+    "low": 0.06073506036563469,
+    "high": 0.21775483771081774
+  },
+  {
+    "event": "morocco",
+    "method": "Bonferroni",
+    "delta": 0.05,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.034358493230101726,
+    "low": 0.018137288093851116,
+    "high": 0.055486002240745194
+  },
+  {
+    "event": "morocco",
+    "method": "Bonferroni",
+    "delta": 0.1,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.057582707959071604,
+    "low": 0.03363601980220621,
+    "high": 0.08686256079692382
+  },
+  {
+    "event": "morocco",
+    "method": "Bonferroni",
+    "delta": 0.2,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.15084157996147146,
+    "low": 0.10511031892987617,
+    "high": 0.2047272835712182
+  },
+  {
+    "event": "morocco",
+    "method": "Bonferroni",
+    "delta": 0.30000000000000004,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.32623486683163017,
+    "low": 0.254334022716354,
+    "high": 0.40291549178002817
+  },
+  {
+    "event": "morocco",
+    "method": "Gaussian",
+    "delta": 0.05,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.14121440291785872,
+    "low": 0.09417130368722186,
+    "high": 0.19658976505758033
+  },
+  {
+    "event": "morocco",
+    "method": "Gaussian",
+    "delta": 0.1,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.22514409933510243,
+    "low": 0.16021746090309913,
+    "high": 0.2964286207917256
+  },
+  {
+    "event": "morocco",
+    "method": "Gaussian",
+    "delta": 0.2,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.4614685881082518,
+    "low": 0.3728080750752199,
+    "high": 0.5523003986603673
+  },
+  {
+    "event": "morocco",
+    "method": "Gaussian",
+    "delta": 0.30000000000000004,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.715362008865562,
+    "low": 0.6438001691629558,
+    "high": 0.7829093474220368
+  },
+  {
+    "event": "morocco",
+    "method": "Global-map",
+    "delta": 0.05,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.06061751331581155,
+    "low": 0.03552608704164799,
+    "high": 0.09147660097967275
+  },
+  {
+    "event": "morocco",
+    "method": "Global-map",
+    "delta": 0.1,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.10050194558592729,
+    "low": 0.06423381327460898,
+    "high": 0.14432552946739718
+  },
+  {
+    "event": "morocco",
+    "method": "Global-map",
+    "delta": 0.2,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.24854474951278618,
+    "low": 0.18357388410082512,
+    "high": 0.3193508437246583
+  },
+  {
+    "event": "morocco",
+    "method": "Global-map",
+    "delta": 0.30000000000000004,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.47485758218106733,
+    "low": 0.3934341125338848,
+    "high": 0.5592521513063812
+  },
+  {
+    "event": "morocco",
+    "method": "Pooled",
+    "delta": 0.05,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.14392272431143266,
+    "low": 0.09629291179400336,
+    "high": 0.1999456403218939
+  },
+  {
+    "event": "morocco",
+    "method": "Pooled",
+    "delta": 0.1,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.22906917169112645,
+    "low": 0.163307729665783,
+    "high": 0.30125786376200997
+  },
+  {
+    "event": "morocco",
+    "method": "Pooled",
+    "delta": 0.2,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.46706636854309286,
+    "low": 0.37800137922112004,
+    "high": 0.5577891589086809
+  },
+  {
+    "event": "morocco",
+    "method": "Pooled",
+    "delta": 0.30000000000000004,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.7205228992011017,
+    "low": 0.6495508965663829,
+    "high": 0.7875202178100269
+  },
+  {
+    "event": "morocco",
+    "method": "Regional-max",
+    "delta": 0.05,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.023850627168547266,
+    "low": 0.01169503333597736,
+    "high": 0.04004932122424608
+  },
+  {
+    "event": "morocco",
+    "method": "Regional-max",
+    "delta": 0.1,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.04220461808800739,
+    "low": 0.023898920018175767,
+    "high": 0.06605958940059455
+  },
+  {
+    "event": "morocco",
+    "method": "Regional-max",
+    "delta": 0.2,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.11900617577052124,
+    "low": 0.08086083087097104,
+    "high": 0.1655621892668147
+  },
+  {
+    "event": "morocco",
+    "method": "Regional-max",
+    "delta": 0.30000000000000004,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.2709207613848018,
+    "low": 0.207179442037105,
+    "high": 0.34094179729552104
+  },
+  {
+    "event": "morocco",
+    "method": "Regional-pool",
+    "delta": 0.05,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.14802597837690548,
+    "low": 0.1015449821013104,
+    "high": 0.20220328094383438
+  },
+  {
+    "event": "morocco",
+    "method": "Regional-pool",
+    "delta": 0.1,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.22959325652440535,
+    "low": 0.16717411845227895,
+    "high": 0.29957710336404547
+  },
+  {
+    "event": "morocco",
+    "method": "Regional-pool",
+    "delta": 0.2,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.45690071896036305,
+    "low": 0.37024912801142823,
+    "high": 0.5421930729888971
+  },
+  {
+    "event": "morocco",
+    "method": "Regional-pool",
+    "delta": 0.30000000000000004,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.7048939866717724,
+    "low": 0.6345540602276596,
+    "high": 0.7717115699094361
+  },
+  {
+    "event": "morocco",
+    "method": "Repaired-max",
+    "delta": 0.05,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.02213467368551497,
+    "low": 0.010629785025524394,
+    "high": 0.037631998797056976
+  },
+  {
+    "event": "morocco",
+    "method": "Repaired-max",
+    "delta": 0.1,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.03928182631797536,
+    "low": 0.02180020762632037,
+    "high": 0.061891487380365325
+  },
+  {
+    "event": "morocco",
+    "method": "Repaired-max",
+    "delta": 0.2,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.11131023213058283,
+    "low": 0.07487669677384631,
+    "high": 0.15541283106962647
+  },
+  {
+    "event": "morocco",
+    "method": "Repaired-max",
+    "delta": 0.30000000000000004,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.25703943775556104,
+    "low": 0.1958321491140299,
+    "high": 0.3255136352904512
+  },
+  {
+    "event": "morocco",
+    "method": "Unscaled-max",
+    "delta": 0.05,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.037859670993747034,
+    "low": 0.020356611608898272,
+    "high": 0.060866079030464475
+  },
+  {
+    "event": "morocco",
+    "method": "Unscaled-max",
+    "delta": 0.1,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.0632377390974683,
+    "low": 0.03772137998441395,
+    "high": 0.09482298178425227
+  },
+  {
+    "event": "morocco",
+    "method": "Unscaled-max",
+    "delta": 0.2,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.16474152176281917,
+    "low": 0.11611246252746585,
+    "high": 0.22141140176682655
+  },
+  {
+    "event": "morocco",
+    "method": "Unscaled-max",
+    "delta": 0.30000000000000004,
+    "dates": 53,
+    "patches": 424,
+    "mean": 0.35012927249464865,
+    "low": 0.27648696489986,
+    "high": 0.4284809364935619
+  }
+]

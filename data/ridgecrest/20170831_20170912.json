@@ -1,0 +1,50 @@
+{
+  "event": "ridgecrest",
+  "pair": "20170831_20170912",
+  "url": "https://gws-access.jasmin.ac.uk/public/nceo_geohazards/LiCSAR_products.public/71/071D_05377_131313/interferograms/20170831_20170912/20170831_20170912.geo.cc.tif",
+  "source_access": "HTTP range; metadata and intersecting compressed strips only",
+  "header_sha256": "a80d7d906fb5565774947e213316fa42338715018bdebf548af8babe5e9a54db",
+  "ranges": [
+    {
+      "start": 2161843,
+      "end": 2423986,
+      "sha256": "70191e9fb06406beb0f0ef2603c8a6226bd3ad2adc65a9599af20c17401a668f"
+    },
+    {
+      "start": 2423987,
+      "end": 2686130,
+      "sha256": "6bafdd789cb9bb99712e0b5b947137242162a91a432965ca0637b3b6f21c90d4"
+    },
+    {
+      "start": 2686131,
+      "end": 2948274,
+      "sha256": "ec3cb531cdc123d5c1fa08f49a31fd73de8a4ede5c3f3cde67c528d9e2c190de"
+    },
+    {
+      "start": 2948275,
+      "end": 3095713,
+      "sha256": "7b8e7a22d81d5c49c747807ccb8ed2a8fdfb664e0542da30f46d716e73a553b4"
+    }
+  ],
+  "source_shape": [
+    2697,
+    3282
+  ],
+  "source_dtype": "uint8",
+  "nodata": null,
+  "crs": "EPSG:4326",
+  "transform": [
+    0.001,
+    0.0,
+    -118.0504444,
+    0.0,
+    -0.001,
+    36.1505
+  ],
+  "crop_shape": [
+    500,
+    500
+  ],
+  "zero_fraction": 8e-06,
+  "sha256_crop": "7a0fe03c32a2044de5b0eb9ab3ac7b5d9af751bf5900583455541d7ec8bef91a"
+}

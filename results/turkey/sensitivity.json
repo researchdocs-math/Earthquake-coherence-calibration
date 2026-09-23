@@ -1,0 +1,642 @@
+[
+  {
+    "event": "turkey",
+    "regions": 1,
+    "rho": 0.01,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.01320042637278386,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 1,
+    "rho": 0.01,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.09433962264150944,
+    "area": 0.004702267522572004,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 1,
+    "rho": 0.01,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.09433962264150944,
+    "area": 0.004702267522572004,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 1,
+    "rho": 0.01,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.09433962264150944,
+    "area": 0.004702267522572004,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 1,
+    "rho": 0.025,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.02808817303474217,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 1,
+    "rho": 0.025,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.09433962264150944,
+    "area": 0.01005377351349246,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 1,
+    "rho": 0.025,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.09433962264150944,
+    "area": 0.01005377351349246,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 1,
+    "rho": 0.025,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.09433962264150944,
+    "area": 0.01005377351349246,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 1,
+    "rho": 0.05,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.2641509433962264,
+    "area": 0.05050096677821255,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 1,
+    "rho": 0.05,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.09433962264150944,
+    "area": 0.018228103478131384,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 1,
+    "rho": 0.05,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.09433962264150944,
+    "area": 0.018228103478131384,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 1,
+    "rho": 0.05,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.09433962264150944,
+    "area": 0.018228103478131384,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 1,
+    "rho": 0.1,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.2641509433962264,
+    "area": 0.09250888795074667,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 1,
+    "rho": 0.1,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.09433962264150944,
+    "area": 0.03374391962139124,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 1,
+    "rho": 0.1,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.09433962264150944,
+    "area": 0.03374391962139124,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 1,
+    "rho": 0.1,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.09433962264150944,
+    "area": 0.03374391962139124,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 4,
+    "rho": 0.01,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.01320042637278386,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 4,
+    "rho": 0.01,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.1509433962264151,
+    "area": 0.004702267522572004,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 4,
+    "rho": 0.01,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.05660377358490566,
+    "area": 0.0034588352699494456,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 4,
+    "rho": 0.01,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.09433962264150944,
+    "area": 0.004916585830638279,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 4,
+    "rho": 0.025,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.3018867924528302,
+    "area": 0.02808817303474217,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 4,
+    "rho": 0.025,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.1509433962264151,
+    "area": 0.01005377351349246,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 4,
+    "rho": 0.025,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.05660377358490566,
+    "area": 0.0063559891394323,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 4,
+    "rho": 0.025,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.07547169811320754,
+    "area": 0.008350213565003426,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 4,
+    "rho": 0.05,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.33962264150943394,
+    "area": 0.05050096677821255,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 4,
+    "rho": 0.05,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.1509433962264151,
+    "area": 0.018228103478131384,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 4,
+    "rho": 0.05,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.05660377358490566,
+    "area": 0.010551021561825434,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 4,
+    "rho": 0.05,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.07547169811320754,
+    "area": 0.013012567771628356,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 4,
+    "rho": 0.1,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.4528301886792453,
+    "area": 0.09250888795074667,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 4,
+    "rho": 0.1,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.1509433962264151,
+    "area": 0.03374391962139124,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 4,
+    "rho": 0.1,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.05660377358490566,
+    "area": 0.018305735805191813,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 4,
+    "rho": 0.1,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.05660377358490566,
+    "area": 0.021617242457079536,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 9,
+    "rho": 0.01,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.33962264150943394,
+    "area": 0.01320042637278386,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 9,
+    "rho": 0.01,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.20754716981132076,
+    "area": 0.004702267522572004,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 9,
+    "rho": 0.01,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.0,
+    "area": 0.0,
+    "finite": false
+  },
+  {
+    "event": "turkey",
+    "regions": 9,
+    "rho": 0.01,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.05660377358490566,
+    "area": 0.0023055923891245967,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 9,
+    "rho": 0.025,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.37735849056603776,
+    "area": 0.02808817303474217,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 9,
+    "rho": 0.025,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.22641509433962265,
+    "area": 0.01005377351349246,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 9,
+    "rho": 0.025,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.0,
+    "area": 0.0,
+    "finite": false
+  },
+  {
+    "event": "turkey",
+    "regions": 9,
+    "rho": 0.025,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.05660377358490566,
+    "area": 0.004565622072368863,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 9,
+    "rho": 0.05,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.4528301886792453,
+    "area": 0.05050096677821255,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 9,
+    "rho": 0.05,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.018228103478131384,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 9,
+    "rho": 0.05,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.0,
+    "area": 0.0,
+    "finite": false
+  },
+  {
+    "event": "turkey",
+    "regions": 9,
+    "rho": 0.05,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.07547169811320754,
+    "area": 0.006996059317236768,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 9,
+    "rho": 0.1,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.49056603773584906,
+    "area": 0.09250888795074667,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 9,
+    "rho": 0.1,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.03374391962139124,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 9,
+    "rho": 0.1,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.0,
+    "area": 0.0,
+    "finite": false
+  },
+  {
+    "event": "turkey",
+    "regions": 9,
+    "rho": 0.1,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.05660377358490566,
+    "area": 0.012561836205960667,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 16,
+    "rho": 0.01,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.4716981132075472,
+    "area": 0.01320042637278386,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 16,
+    "rho": 0.01,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.004702267522572004,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 16,
+    "rho": 0.01,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.0,
+    "area": 0.0,
+    "finite": false
+  },
+  {
+    "event": "turkey",
+    "regions": 16,
+    "rho": 0.01,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.05660377358490566,
+    "area": 0.0022650534071497926,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 16,
+    "rho": 0.025,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.4716981132075472,
+    "area": 0.02808817303474217,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 16,
+    "rho": 0.025,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.01005377351349246,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 16,
+    "rho": 0.025,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.0,
+    "area": 0.0,
+    "finite": false
+  },
+  {
+    "event": "turkey",
+    "regions": 16,
+    "rho": 0.025,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.07547169811320754,
+    "area": 0.0060580411999605075,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 16,
+    "rho": 0.05,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.5094339622641509,
+    "area": 0.05050096677821255,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 16,
+    "rho": 0.05,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.018228103478131384,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 16,
+    "rho": 0.05,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.0,
+    "area": 0.0,
+    "finite": false
+  },
+  {
+    "event": "turkey",
+    "regions": 16,
+    "rho": 0.05,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.05660377358490566,
+    "area": 0.009189627528252461,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 16,
+    "rho": 0.1,
+    "method": "Pooled",
+    "n": 53,
+    "exceedance": 0.5283018867924528,
+    "area": 0.09250888795074667,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 16,
+    "rho": 0.1,
+    "method": "Global-map",
+    "n": 53,
+    "exceedance": 0.24528301886792453,
+    "area": 0.03374391962139124,
+    "finite": true
+  },
+  {
+    "event": "turkey",
+    "regions": 16,
+    "rho": 0.1,
+    "method": "Bonferroni",
+    "n": 53,
+    "exceedance": 0.0,
+    "area": 0.0,
+    "finite": false
+  },
+  {
+    "event": "turkey",
+    "regions": 16,
+    "rho": 0.1,
+    "method": "Regional-max",
+    "n": 53,
+    "exceedance": 0.09433962264150944,
+    "area": 0.014196544718964716,
+    "finite": true
+  }
+]

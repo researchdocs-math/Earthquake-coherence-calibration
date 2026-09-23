@@ -1,0 +1,60 @@
+{
+  "event": "turkey",
+  "pair": "20220427_20220509",
+  "url": "https://gws-access.jasmin.ac.uk/public/nceo_geohazards/LiCSAR_products.public/14/014A_05232_242525/interferograms/20220427_20220509/20220427_20220509.geo.cc.tif",
+  "source_access": "HTTP range; metadata and intersecting compressed strips only",
+  "header_sha256": "6d1dbc360e72101953b517e1dea79080d62226425e962f241a5198c2169397eb",
+  "ranges": [
+    {
+      "start": 3955927,
+      "end": 4218070,
+      "sha256": "a138cb497084040e7e10fcf62978ef059051c7a3b2445d43002ee6ef72e23d23"
+    },
+    {
+      "start": 4218071,
+      "end": 4480214,
+      "sha256": "c7ba48e3f99c201faf5f9d8442e45d958acb4c025ba527eda9fe11e206a53739"
+    },
+    {
+      "start": 4480215,
+      "end": 4742358,
+      "sha256": "15b02ec7245da34907ed84739df5ab235312016575ca750ba6d0e5a2dc14261e"
+    },
+    {
+      "start": 4742359,
+      "end": 5004502,
+      "sha256": "388e0890e528ea30024f5e98803fd1cbdd5850d5998f73fad7c1482f230d7eb2"
+    },
+    {
+      "start": 5004503,
+      "end": 5266646,
+      "sha256": "8ac6c55eda9543c98d9034bcf503c0b468dc60e4abc547ffa01403f7a95a33b6"
+    },
+    {
+      "start": 5266647,
+      "end": 5426302,
+      "sha256": "eb4015508098612a26169aa10320011af02eca25a003912c54c9f34f1483979a"
+    }
+  ],
+  "source_shape": [
+    4684,
+    3872
+  ],
+  "source_dtype": "uint8",
+  "nodata": null,
+  "crs": "EPSG:4326",
+  "transform": [
+    0.001,
+    0.0,
+    36.549499999999995,
+    0.0,
+    -0.001,
+    37.850222200000005
+  ],
+  "crop_shape": [
+    700,
+    700
+  ],
+  "zero_fraction": 0.00011428571428571428,
+  "sha256_crop": "b1c9924678adfed12a6b29f8096ba62342e9affba3775255efd8b38007ae712e"
+}

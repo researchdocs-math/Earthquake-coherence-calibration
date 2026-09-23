@@ -1,0 +1,66 @@
+[
+  {
+    "event": "ridgecrest",
+    "score": "difference",
+    "method": "Pooled",
+    "n": 15,
+    "exceedance": 0.7333333333333333,
+    "area": 0.2535839248153841
+  },
+  {
+    "event": "ridgecrest",
+    "score": "difference",
+    "method": "Global-map",
+    "n": 15,
+    "exceedance": 0.5333333333333333,
+    "area": 0.12021105120209381
+  },
+  {
+    "event": "ridgecrest",
+    "score": "difference",
+    "method": "Bonferroni",
+    "n": 15,
+    "exceedance": 0.0,
+    "area": 0.0
+  },
+  {
+    "event": "ridgecrest",
+    "score": "difference",
+    "method": "Regional-max",
+    "n": 15,
+    "exceedance": 0.5333333333333333,
+    "area": 0.07773447043700253
+  },
+  {
+    "event": "ridgecrest",
+    "score": "log-ratio",
+    "method": "Pooled",
+    "n": 15,
+    "exceedance": 0.7333333333333333,
+    "area": 0.24369947894175042
+  },
+  {
+    "event": "ridgecrest",
+    "score": "log-ratio",
+    "method": "Global-map",
+    "n": 15,
+    "exceedance": 0.5333333333333333,
+    "area": 0.08786747317529196
+  },
+  {
+    "event": "ridgecrest",
+    "score": "log-ratio",
+    "method": "Bonferroni",
+    "n": 15,
+    "exceedance": 0.0,
+    "area": 0.0
+  },
+  {
+    "event": "ridgecrest",
+    "score": "log-ratio",
+    "method": "Regional-max",
+    "n": 15,
+    "exceedance": 0.5333333333333333,
+    "area": 0.05566580704802497
+  }
+]

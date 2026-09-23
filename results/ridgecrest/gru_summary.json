@@ -1,0 +1,18 @@
+{
+  "device": "mps",
+  "parameters": 6594,
+  "epochs": 60,
+  "training_pixels": 13107,
+  "validation_pixels": 3277,
+  "seed": 271828,
+  "center": -0.2594427168369293,
+  "spread": 1.3391560316085815,
+  "seconds": 40.07826895796461,
+  "config": {
+    "data_dim": 1,
+    "h_dim": 32,
+    "rnn_dim": 32,
+    "rnn_cell": "gru",
+    "num_layers": 1
+  }
+}

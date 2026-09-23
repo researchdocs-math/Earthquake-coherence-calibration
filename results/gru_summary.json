@@ -1,0 +1,194 @@
+[
+  {
+    "event": "ridgecrest",
+    "method": "Bonferroni",
+    "n": 15,
+    "breaches": 0,
+    "rate": 0.0,
+    "mean_area": 0.0
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Gaussian",
+    "n": 15,
+    "breaches": 7,
+    "rate": 0.4666666666666667,
+    "mean_area": 0.040553393719381485
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Global-map",
+    "n": 15,
+    "breaches": 13,
+    "rate": 0.8666666666666667,
+    "mean_area": 0.0912666669590894
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Pooled",
+    "n": 15,
+    "breaches": 15,
+    "rate": 1.0,
+    "mean_area": 0.17538305805300247
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Regional-max",
+    "n": 15,
+    "breaches": 10,
+    "rate": 0.6666666666666666,
+    "mean_area": 0.05956357244525813
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Regional-pool",
+    "n": 15,
+    "breaches": 14,
+    "rate": 0.9333333333333333,
+    "mean_area": 0.17217237760006024
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Repaired-max",
+    "n": 15,
+    "breaches": 7,
+    "rate": 0.4666666666666667,
+    "mean_area": 0.0408047176621047
+  },
+  {
+    "event": "ridgecrest",
+    "method": "Unscaled-max",
+    "n": 15,
+    "breaches": 10,
+    "rate": 0.6666666666666666,
+    "mean_area": 0.0584859714255964
+  },
+  {
+    "event": "turkey",
+    "method": "Bonferroni",
+    "n": 53,
+    "breaches": 4,
+    "rate": 0.07547169811320754,
+    "mean_area": 0.009513954040620208
+  },
+  {
+    "event": "turkey",
+    "method": "Gaussian",
+    "n": 53,
+    "breaches": 9,
+    "rate": 0.16981132075471697,
+    "mean_area": 0.015809409373339946
+  },
+  {
+    "event": "turkey",
+    "method": "Global-map",
+    "n": 53,
+    "breaches": 3,
+    "rate": 0.05660377358490566,
+    "mean_area": 0.005910383687620983
+  },
+  {
+    "event": "turkey",
+    "method": "Pooled",
+    "n": 53,
+    "breaches": 16,
+    "rate": 0.3018867924528302,
+    "mean_area": 0.04054229473670424
+  },
+  {
+    "event": "turkey",
+    "method": "Regional-max",
+    "n": 53,
+    "breaches": 0,
+    "rate": 0.0,
+    "mean_area": 0.0024118273478265662
+  },
+  {
+    "event": "turkey",
+    "method": "Regional-pool",
+    "n": 53,
+    "breaches": 32,
+    "rate": 0.6037735849056604,
+    "mean_area": 0.05964113788412552
+  },
+  {
+    "event": "turkey",
+    "method": "Repaired-max",
+    "n": 53,
+    "breaches": 0,
+    "rate": 0.0,
+    "mean_area": 0.0023283357407498304
+  },
+  {
+    "event": "turkey",
+    "method": "Unscaled-max",
+    "n": 53,
+    "breaches": 0,
+    "rate": 0.0,
+    "mean_area": 0.0019534040226798686
+  },
+  {
+    "event": "morocco",
+    "method": "Bonferroni",
+    "n": 53,
+    "breaches": 1,
+    "rate": 0.018867924528301886,
+    "mean_area": 0.0032931497856696986
+  },
+  {
+    "event": "morocco",
+    "method": "Gaussian",
+    "n": 53,
+    "breaches": 12,
+    "rate": 0.22641509433962265,
+    "mean_area": 0.01761969146524122
+  },
+  {
+    "event": "morocco",
+    "method": "Global-map",
+    "n": 53,
+    "breaches": 28,
+    "rate": 0.5283018867924528,
+    "mean_area": 0.04759711358887733
+  },
+  {
+    "event": "morocco",
+    "method": "Pooled",
+    "n": 53,
+    "breaches": 34,
+    "rate": 0.6415094339622641,
+    "mean_area": 0.08343761422018227
+  },
+  {
+    "event": "morocco",
+    "method": "Regional-max",
+    "n": 53,
+    "breaches": 23,
+    "rate": 0.4339622641509434,
+    "mean_area": 0.03521390667476826
+  },
+  {
+    "event": "morocco",
+    "method": "Regional-pool",
+    "n": 53,
+    "breaches": 33,
+    "rate": 0.6226415094339622,
+    "mean_area": 0.08487042487548782
+  },
+  {
+    "event": "morocco",
+    "method": "Repaired-max",
+    "n": 53,
+    "breaches": 12,
+    "rate": 0.22641509433962265,
+    "mean_area": 0.01735046168278552
+  },
+  {
+    "event": "morocco",
+    "method": "Unscaled-max",
+    "n": 53,
+    "breaches": 22,
+    "rate": 0.41509433962264153,
+    "mean_area": 0.035944626307023775
+  }
+]
